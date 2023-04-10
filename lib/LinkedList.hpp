@@ -19,7 +19,7 @@ private:
 public:
     LinkedList();
 
-    explicit LinkedList(std::vector<T> items);
+    explicit LinkedList(const std::vector<T> &items);
 
     /// @brief get the number of elements in the list
     /// @return the number of elements in the list
