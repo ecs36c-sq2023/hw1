@@ -54,8 +54,9 @@ cases on Gradescope.
 - `Queue` Implementation - 15%
 - Memory Safety - 10%
 
-**NOTE** If you are running out of time to impliment all methods, please
-at least provide an empty method definition for each method in `lib/*.cpp`.
+**NOTE** If you are running out of time to implement all methods, please
+at least provide a syntactically valid empty method definition for each 
+method in `lib/*.cpp`.
 
 ### Linked List
 
